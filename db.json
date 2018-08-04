@@ -1,5 +1,5 @@
 {
-    "testArray":[
+    "profiles":[
         {
             "name": "abc",
             "number": 123
