@@ -1,11 +1,11 @@
 {
     "profiles":[
         {
-            "name": "John Arron",
+            "name": "John",
             "age": 25
         },
         {
-            "name": "Susie T",
+            "name": "Susie",
             "age": 26
         }
     ]
