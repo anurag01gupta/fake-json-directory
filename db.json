@@ -1,8 +1,12 @@
 {
     "profiles":[
         {
-            "name": "abc",
-            "number": 123
+            "name": "John",
+            "age": 25
+        },
+        {
+            "name": "Susie",
+            "age": 26
         }
     ]
 }
