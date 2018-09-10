@@ -1,12 +1,9 @@
 {
-    "profiles":[
+    "userInfo":
         {
-            "name": "John",
-            "age": 25
-        },
-        {
-            "name": "Susie",
-            "age": 26
+            "firstName": "Anurag",
+            "lastName": "Gupta",
+            "designation": "Programmer / Web Developer",
+            "description":""
         }
-    ]
 }
